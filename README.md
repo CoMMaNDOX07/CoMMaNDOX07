@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm CoMMaNDO
 
-<!--
-**CoMMaNDOX07/CoMMaNDOX07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web3 security researcher focused on smart contract auditing, blockchain protocols, and competitive audits.
 
-Here are some ideas to get you started:
+## Security Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Code4rena Warden: CoMMaNDO
+- Focus areas: DeFi, smart contract vulnerabilities, protocol logic, access control, accounting bugs
+- Portfolio: [My Web3 Security Portfolio]
+
+## Valid Findings
+
+I document my valid findings from public competitive audits, including High, Medium, Low, and QA reports where applicable.
+
+> All links are official public references from Code4rena reports or contest pages.
