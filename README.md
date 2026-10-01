@@ -1,4 +1,4 @@
-# Hamza Nasser | CoMMaNDO
+# CoMMaNDO
 
 **Web3 Security Researcher — Smart Contracts & Blockchain Protocols**
 
