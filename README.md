@@ -1,15 +1,17 @@
-# Hi, I'm CoMMaNDO
+# Hamza Nasser | CoMMaNDO
 
-I am a Web3 security researcher focused on smart contract auditing, blockchain protocols, and competitive audits.
+**Web3 Security Researcher — Smart Contracts & Blockchain Protocols**
 
-## Security Research
+I research security issues in smart contracts and blockchain systems, with work spanning Solidity/EVM, Rust-based protocols, and TON.
 
-- Code4rena Warden: CoMMaNDO
-- Focus areas: DeFi, smart contract vulnerabilities, protocol logic, access control, accounting bugs
-- Portfolio: [My Web3 Security Portfolio]
+My work includes public competitive audit submissions on Code4rena and validated, rewarded responsible disclosure research. The portfolio separates public findings, confidential results, and duplicate submissions.
 
-## Valid Findings
+### Explore my work
 
-I document my valid findings from public competitive audits, including High, Medium, Low, and QA reports where applicable.
+[Security portfolio](https://github.com/CoMMaNDOX07/web3-security-portfolio) · [Selected public findings](https://github.com/CoMMaNDOX07/web3-security-portfolio#selected-public-findings) · [Code4rena archive](https://github.com/CoMMaNDOX07/web3-security-portfolio/tree/main/code4rena) · [Responsible disclosure](https://github.com/CoMMaNDOX07/web3-security-portfolio/tree/main/responsible-disclosures)
 
-> All links are official public references from Code4rena reports or contest pages.
+**Open to Web3 Security Researcher and Smart Contract Security roles.**
+
+[Contact me on LinkedIn](https://www.linkedin.com/in/hamza-nasser-3a35a8246/)
+
+Code4rena: `CoMMaNDO` · HackenProof: `CoMManDOO` · GitHub: `CoMMaNDOX07`.
